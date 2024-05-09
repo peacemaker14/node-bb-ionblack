@@ -1,7 +1,7 @@
 {
-    "name": "nodebb-theme-quickstart",
+    "name": "node-bb-ionblack",
     "version": "0.1.0",
-    "description": "Enter a description here",
+    "description": "Ion Mobility Theme",
     "main": "lib/theme.js",
     "keywords": [],
     "license": "MIT",
@@ -28,5 +28,16 @@
         "eslint-plugin-import": "2.x",
         "husky": "5.0.9",
         "lint-staged": "10.5.4"
+    },
+    "author": {
+        "name": "Bayu Rizki Rahmadi",
+        "email": "bayu.r.rahmadi@gmail.com",
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/peacemaker14/node-bb-ionblack"
+    },
+    "bugs": {
+        "url": "https://github.com/peacemaker14/node-bb-ionblack/issues"
     }
 }
